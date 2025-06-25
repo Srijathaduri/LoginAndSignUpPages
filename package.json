@@ -1,10 +1,10 @@
 {
   "name": "login-and-signup",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon src/index.js"
+    "start": "node src/index.js" 
   },
   "keywords": [],
   "author": "",
